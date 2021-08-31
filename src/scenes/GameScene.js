@@ -28,10 +28,10 @@ export default class GameScene extends Phaser.Scene {
 
     const platforms = this.createPlatforms();
     this.player = this.createPlayer();
-    // const stars = this.createStars();
+    const stars = this.createStars();
 
     this.physics.add.collider(this.player, platforms);
-    // this.physics.add.collider(stars, platforms);
+    this.physics.add.collider(stars, platforms);
 
     this.cursors = this.input.keyboard.createCursorKeys();
   }
@@ -97,17 +97,17 @@ export default class GameScene extends Phaser.Scene {
     return player;
   }
 
-  // createStars() {
-  //   const stars = this.physics.add.group({
-  //     key: STAR_KEY,
-  //     repeat: 11,
-  //     setXY: { x: 12, y: 0, stepX: 70 },
-  //   });
+  createStars() {
+    const stars = this.physics.add.group({
+      key: STAR_KEY,
+      repeat: 11,
+      setXY: { x: 12, y: 0, stepX: 70 },
+    });
 
-  //   stars.children.iterate((child) => {
-  //     child.setBounceY(Phaser.Math.FloatBetween(0.4, 0.8));
-  //   });
+    stars.children.iterate((child) => {
+      child.setBounceY(Phaser.Math.FloatBetween(0.4, 0.8));
+    });
 
-  //   return stars;
-  // }
+    return stars;
+  }
 }
