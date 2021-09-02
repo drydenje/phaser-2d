@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "block_brick@2x.png",
+	"frame": {"x":0,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "block_ground@2x.png",
+	"frame": {"x":128,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "block_question@2x.png",
+	"frame": {"x":256,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "block_stone@2x.png",
+	"frame": {"x":384,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "blocks.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a2e8d7d9d96d1f4285c61b0bbce7a254:f957c44419a03aa7b4f5fd31be4f5287:b1f1a031cef7856acce3e479bba415bf$"
+}
+}

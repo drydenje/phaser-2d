@@ -1,18 +1,19 @@
 import Phaser from "phaser";
 
-import GameScene from "./scenes/GameScene";
+// import GameScene from "./scenes/GameScene";
+import KoalaScene from "./scenes/KoalaScene";
 
 const config = {
   type: Phaser.AUTO,
-  width: 800,
+  width: 600,
   height: 600,
   physics: {
-    default: "arcade",
+    default: "matter",
     arcade: {
-      gravity: { y: 300 },
+      debug: true,
     },
   },
-  scene: [GameScene],
+  scene: [KoalaScene],
 };
 
 export default new Phaser.Game(config);
