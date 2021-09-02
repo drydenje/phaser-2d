@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "object_anthill@2x.png",
+	"frame": {"x":528,"y":0,"w":256,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":200},
+	"sourceSize": {"w":256,"h":200}
+},
+{
+	"filename": "object_cloud1@2x.png",
+	"frame": {"x":1064,"y":0,"w":416,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":416,"h":240},
+	"sourceSize": {"w":416,"h":240}
+},
+{
+	"filename": "object_cloud2@2x.png",
+	"frame": {"x":784,"y":0,"w":280,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":144},
+	"sourceSize": {"w":280,"h":144}
+},
+{
+	"filename": "object_coin@2x.png",
+	"frame": {"x":0,"y":0,"w":80,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":112},
+	"sourceSize": {"w":80,"h":112}
+},
+{
+	"filename": "object_door_closed@2x.png",
+	"frame": {"x":208,"y":0,"w":160,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":192},
+	"sourceSize": {"w":160,"h":192}
+},
+{
+	"filename": "object_door_open@2x.png",
+	"frame": {"x":368,"y":0,"w":160,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":192},
+	"sourceSize": {"w":160,"h":192}
+},
+{
+	"filename": "object_mountain1@2x.png",
+	"frame": {"x":0,"y":288,"w":888,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":888,"h":560},
+	"sourceSize": {"w":888,"h":560}
+},
+{
+	"filename": "object_mountain2@2x.png",
+	"frame": {"x":1480,"y":0,"w":568,"h":288},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":568,"h":288},
+	"sourceSize": {"w":568,"h":288}
+},
+{
+	"filename": "object_spikes@2x.png",
+	"frame": {"x":80,"y":0,"w":128,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":40},
+	"sourceSize": {"w":128,"h":40}
+},
+{
+	"filename": "object_tree@2x.png",
+	"frame": {"x":888,"y":288,"w":1056,"h":1184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1056,"h":1184},
+	"sourceSize": {"w":1056,"h":1184}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "objects.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1472},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:44bb9e30555420f3eee7e6c68f3c1f07:9ea8f5f823122e79393a33d113e9e636:8d6d12ff4d5234f2a4b19e0a906dbf52$"
+}
+}

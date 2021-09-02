@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "koala_idle@2x.png",
+	"frame": {"x":0,"y":0,"w":144,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":204},
+	"sourceSize": {"w":144,"h":204}
+},
+{
+	"filename": "koala_jump@2x.png",
+	"frame": {"x":144,"y":0,"w":144,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":204},
+	"sourceSize": {"w":144,"h":204}
+},
+{
+	"filename": "koala_walk01@2x.png",
+	"frame": {"x":288,"y":0,"w":144,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":204},
+	"sourceSize": {"w":144,"h":204}
+},
+{
+	"filename": "koala_walk02@2x.png",
+	"frame": {"x":432,"y":0,"w":144,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":204},
+	"sourceSize": {"w":144,"h":204}
+},
+{
+	"filename": "koala_walk03@2x.png",
+	"frame": {"x":576,"y":0,"w":144,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":204},
+	"sourceSize": {"w":144,"h":204}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "koala.png",
+	"format": "RGBA8888",
+	"size": {"w":720,"h":204},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cf486a11dfed1d6352eb7557ea9b7aff:24da0e4e4c93e0c156669ba672581798:7fb9efb06c1d914765da1b924c27a2b1$"
+}
+}
